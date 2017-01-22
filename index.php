@@ -13,6 +13,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  * Zovni est le meilleur
  * En effet, mais ce n'est pas le seul !
+ * Correction du bug du lancelement de l'application
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
