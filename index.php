@@ -12,7 +12,7 @@
  * @since         0.10.0
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  * Zovni est le meilleur
-   En effet, mais ce n'est pas le seul !
+ * En effet, mais ce n'est pas le seul !
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
